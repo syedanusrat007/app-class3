@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DemopApps1</string>
+
+
+    <string name="enterName">Enter user name.</string>
+    <string name="enterEmail">Enter your email.</string>
+    <string name="enterPassword">Enter user password.</string>
+    <string name="selectType">Select type: </string>
+    <string name="selectGender">Select gender: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="saveInfo">Save information? </string>
+    <string name="btnRegistration">REGISTRATION</string>
+    <string name="btnLogin">LOGIN</string>
+
+    <string name="alertName">Please enter name </string>
+    <string name="alertEmail">Please enter  valid email</string>
+    <string name="alertPassWord">Please enter  password</string>
+    <string name="alertType">Please choose another type</string>
+
+    <string name="alertAddress">Please enter address </string>
+
+</resources>

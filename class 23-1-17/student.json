@@ -1,0 +1,213 @@
+{
+    "students": [
+      {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+      {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+      {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+      {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+      {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      },
+	  {
+        "reg": "111",
+        "roll": "888",
+		"year":"3",
+		"semester":"6",
+		"gender":"Male",
+		"name":"StudentName",
+        "small_image": "logo_5",
+        "detail":{
+          "aim":"future aim",
+		  "dob":"30-07-1995",
+          "introduce":"like as family info with address ,education, etc......",
+          "hobbies":"like as playing games and reading books",
+          "strengths":"like as self-motivation and ready to learn new things",
+          "weakness":"like as can not comfortable untile I complete my own work",
+          "email":"like as xxxxxx@bbbb.com",
+          "mobile":"+08899999999"
+        }
+      }
+    ]
+}
